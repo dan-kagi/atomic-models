@@ -8,6 +8,20 @@ h1 {
   text-align: center;
 }
 
+#scattering,
+#bohr {
+  display: block;
+  text-align: center;
+  color: black;
+  margin-bottom: 20px;
+}
+
+#scattering:hover,
+#bohr:hover {
+  color: blue;
+  font-weight: bold;
+}
+
 header {
   margin-top: 0px;
   background-color: green;
